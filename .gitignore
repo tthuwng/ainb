@@ -2,3 +2,5 @@
 .*.swp
 *.pyc
 venv
+.DS_Store
+*.txt

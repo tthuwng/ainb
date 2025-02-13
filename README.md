@@ -1,2 +1,3 @@
 # ainb
-notebooks implement basic ai stuff
+
+notebooks implement machine learning
